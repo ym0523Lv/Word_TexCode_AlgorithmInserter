@@ -1,0 +1,2 @@
+# Word_TexCode_AlgorithmInserter
+在word里以表格形式插入类似latex格式算法代码块的插件
